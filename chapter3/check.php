@@ -34,6 +34,8 @@
             print '</form>';
         }
         // echo '<a href = "index.html">戻る</a>'
+
+        echo 'Git Test'
     ?>
 
 </body>
